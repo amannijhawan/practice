@@ -1,0 +1,3 @@
+C02YJ2Z6JGH5:practice amannijhawan$ python test.py 
+Input [100, 9, 9] Max sum 99100
+Input [100, 8, 9] Max sum 98100
